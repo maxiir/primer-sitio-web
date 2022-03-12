@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "tribu-hardware",
+    "prueba-sitio": "tribu-hard"
+  },
+  "targets": {}
+}
